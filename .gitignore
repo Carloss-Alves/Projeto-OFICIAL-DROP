@@ -33,3 +33,8 @@ dist-ssr
 /blob-report/
 /playwright/.cache/
 coverage/
+
+# Arquivos locais e credenciais
+.env.*
+!.env.example
+supabase/.temp/
